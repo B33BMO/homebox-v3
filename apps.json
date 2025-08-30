@@ -1,0 +1,5 @@
+[
+    { "id":"youtube", "label":"YouTube", "kind":"web", "url":"https://www.youtube.com/tv", "fullscreen":true, "icon":"/icons/youtube.svg", "order":1, "enabled":true },
+    { "id":"spotify", "label":"Spotify", "kind":"web", "url":"https://open.spotify.com", "fullscreen":true, "icon":"/icons/spotify.svg", "order":7, "enabled":true }
+  ]
+  
